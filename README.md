@@ -85,6 +85,6 @@ For the subnet input `192.168.1.10/24`, the calculator should report:
 
 This project is intended for educational use. The TCP checker is configured for localhost. Only test other systems when you have explicit authorization.
 
-** Author**
+**Author**
 
 Prachi Raut
